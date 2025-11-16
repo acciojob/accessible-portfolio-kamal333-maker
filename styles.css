@@ -1,2 +1,40 @@
 
 /* Your CSS Code here. */
+body{
+	font-family: sans-serif;
+	margin:0;
+	padding:20px;
+	background-color: lightcoral;
+}
+h1{
+	text-align: center;
+	padding: 5px;
+}
+nav{
+	background-color:grey;
+	padding:5px;
+	font-size:15px;
+}
+
+nav a{
+	text-decoration:0;
+	color:white;
+	padding:10px 10px;
+	display:inline-block
+}
+
+img{
+	padding:10px 10px;
+	background-color:black;
+}
+
+h2{
+	text-align:center;
+	text-decoration:underline;
+}
+
+#skills{
+	text-align:left;
+	line-height:20px;
+	
+}
